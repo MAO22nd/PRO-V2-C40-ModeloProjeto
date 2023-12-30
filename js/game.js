@@ -62,7 +62,8 @@ class Game{
                          textSize(20);
                          //adicione o código para exibir o nome do jogador na respectiva cesta
 
-                         
+                         this.player1.text("nome do jogador",200,500);
+                         this.player2.text("nome do jogador",800,500);
                      }
                     
                          textSize(25);
